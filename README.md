@@ -1,4 +1,4 @@
-# A List of personal samples code for [NestJS](https://nestjs.com/)
+# A List of personal random samples code for [NestJS](https://nestjs.com/)
 
 ## Stripe
 
@@ -29,3 +29,14 @@
 - [sample-nests-postgresql-qovery](https://github.com/audiBookning/sample-nests-postgresql-qovery)
 
   > NestJS and PostgreSQL working with Qovery Sample Code
+
+## Disclaimer
+
+These codes are not and will never be maintained. They are just some random sample code.
+
+Feel free to copy and make any change you like to them.
+
+##
+
+License
+ISC © 2021 AudiBookning
