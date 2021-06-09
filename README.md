@@ -12,6 +12,10 @@
 
   > ManyToOne Properties on an Entity - code sample
 
+- [prop-many-to-many](https://github.com/audiBookning/prop-many-to-many)
+
+  > Simple ManyToMany Properties on an Entity - code sample
+
 - [sample-nestjs-typeorm-paginate](https://github.com/audiBookning/sample-nestjs-typeorm-paginate)
 
   > Nestjs Typeorm paginate - Test
