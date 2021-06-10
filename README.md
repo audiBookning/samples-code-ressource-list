@@ -1,24 +1,26 @@
-# A List of personal random samples code for [NestJS](https://nestjs.com/)
+# A List of personal random samples code
 
-## Stripe
+## [NestJS](https://nestjs.com/)
+
+### Stripe
 
 - [sample-nestjs-stripe](https://github.com/audiBookning/sample-nestjs-stripe)
 
   > Just a little test to try to implement Stripe with Nestjs
 
-## Handlebars
+### Handlebars
 
 - [nestjs-express-handlebars](https://github.com/audiBookning/nestjs-express-handlebars)
 
   > Quick sample code for using express-handlebars as a template engine in NestJS
 
-## AlpineJS
+### AlpineJS
 
 - [sample-nestjs-alpinejs](https://github.com/audiBookning/sample-nestjs-alpinejs)
 
   > Quick sample code for using AlpineJJS with NetsJS and with the help of express-handlebars as a template engine
 
-## TypeORM
+### TypeORM
 
 - [prop-many-to-one](https://github.com/audiBookning/prop-many-to-one)
 
@@ -32,7 +34,7 @@
 
   > Nestjs Typeorm paginate - Test
 
-  ## Qovery
+  ### Qovery
 
 - [sample-nests-qovery](https://github.com/audiBookning/sample-nests-qovery)
 
