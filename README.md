@@ -12,6 +12,12 @@
 
   > Quick sample code for using express-handlebars as a template engine in NestJS
 
+## AlpineJS
+
+- [sample-nestjs-alpinejs](https://github.com/audiBookning/sample-nestjs-alpinejs)
+
+  > Quick sample code for using AlpineJJS with NetsJS and with the help of express-handlebars as a template engine
+
 ## TypeORM
 
 - [prop-many-to-one](https://github.com/audiBookning/prop-many-to-one)
