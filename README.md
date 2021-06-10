@@ -1,5 +1,7 @@
 # A List of personal random samples code
 
+A list of "repo-snippets", "repoGists", ...
+
 ## [NestJS](https://nestjs.com/)
 
 ### Stripe
