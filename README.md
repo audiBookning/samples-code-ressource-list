@@ -6,6 +6,12 @@
 
   > Just a little test to try to implement Stripe with Nestjs
 
+## Handlebars
+
+- [nestjs-express-handlebars](https://github.com/audiBookning/nestjs-express-handlebars)
+
+  > Quick sample code for using express-handlebars as a template engine in NestJS
+
 ## TypeORM
 
 - [prop-many-to-one](https://github.com/audiBookning/prop-many-to-one)
