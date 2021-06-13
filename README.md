@@ -12,7 +12,7 @@ A list of "repo-snippets", "repoGists", ...
 
 ### Handlebars
 
-- [nestjs-express-handlebars](https://github.com/audiBookning/nestjs-express-handlebars)
+- [sample-nestjs-express-handlebars](https://github.com/audiBookning/sample-nestjs-express-handlebars)
 
   > Quick sample code for using express-handlebars as a template engine in NestJS
 
@@ -24,11 +24,11 @@ A list of "repo-snippets", "repoGists", ...
 
 ### TypeORM
 
-- [prop-many-to-one](https://github.com/audiBookning/prop-many-to-one)
+- [sample-prop-many-to-one](https://github.com/audiBookning/sample-prop-many-to-one)
 
   > ManyToOne Properties on an Entity - code sample
 
-- [prop-many-to-many](https://github.com/audiBookning/prop-many-to-many)
+- [sample-prop-many-to-many](https://github.com/audiBookning/sample-prop-many-to-many)
 
   > Simple ManyToMany Properties on an Entity - code sample
 
